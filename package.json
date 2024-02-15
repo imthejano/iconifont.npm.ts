@@ -1,0 +1,20 @@
+{
+  "name": "iconifont",
+  "version": "1.0.0",
+  "description": "Convert SVG files into an icon font library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icon",
+    "font",
+    "svg",
+    "styles",
+    "front",
+    "frontend",
+    "imjano"
+  ],
+  "author": "imjano",
+  "license": "ISC"
+}
