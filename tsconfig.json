@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"forceConsistentCasingInFileNames": true,
+		"esModuleInterop": true,
+		"target": "es6",
+		"module": "commonjs",
+		"outDir": "./dist",
+		"strict": true,
+		"declaration": true,
+		"types": ["./types/global.d.ts", "jest"]
+	},
+	"include": ["src"]
+}
